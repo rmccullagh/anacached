@@ -1,0 +1,5 @@
+# TODO - May 26, 2018
+
+- Buffer overflow checking in the read buffer resize
+- implement the key field of the message header
+- implement the linked list node deletion upon connection close

@@ -1,0 +1,2 @@
+# To enable core dumps
+`ulimit -c unlimited`
